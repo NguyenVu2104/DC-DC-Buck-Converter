@@ -15,10 +15,12 @@ Dự án phân tích phần cứng, dựng lại schematic và PCB của hai m�
 
 ## Schematic
 Mạch ổn áp DC-DC 5V 3A:
+
 <img width="624" height="356" alt="image" src="https://github.com/user-attachments/assets/2fe7af0c-f55d-4e24-850d-60e6f78d986f" />
 
 ## PCB Layout
 Mạch ổn áp DC-DC 5V 3A:
+
 <img width="452" height="339" alt="image" src="https://github.com/user-attachments/assets/91c34d0a-a01b-450f-9228-345dd8a35ed0" />
 
 ## Tính toán MINI-360
